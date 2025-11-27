@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Prefiled for Introduction on Monday, November 24, 2025",
+    "date": "2025-04-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2411"
+}
