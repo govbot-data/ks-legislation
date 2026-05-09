@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee Report recommending resolution be adopted as amended by Senate Committee on Assessment and Taxation",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SCR1603"
+}

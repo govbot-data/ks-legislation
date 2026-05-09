@@ -1,25 +1,185 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB260",
-  "title": "Amending the Kansas parimutuel racing act regarding qualifications for an organization license, the definition of horsemen's associations and horsemen's nonprofit organizations and the distribution of certain tax revenues.",
+  "title": "Relating to campaign finance; concerning a vacancy in the joint candidacy of the governor and lieutenant governor; relating to reasons for withdrawal of candidacy from national, state and local offices; relating to the election of the board of directors of certain irrigation districts; specifying when such elections may be conducted by the mail ballot election law; relating to the crime of corrupt political advertising; removing the requirements that treasurers be listed in political advertising attributions; clarifying campaign finance reports regarding vendor information.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Funds",
+    "Gambling and Gaming",
+    "HB 2446",
+    "Named Acts",
+    "SB 392",
+    "SB 451",
+    "SB 65",
+    "State Treasurer"
+  ],
   "abstracts": [],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "",
-      "title": "AN ACT concerning parimutuel wagering; relating to the Kansas parimutuel racing act; modifying the qualifications for an organization license; redefining horesemen's associations and horsemen's nonprofit organizations; changing the distribution of certain tax revenues; amending K.S.A. 74-8815, 74-8826, 74-8829 and 74-8838 and K.S.A. 2024 Supp. 74-8802 and 74-8814 and repealing the existing sections."
+      "identifier": "ocd-bill-ks-2025_2026-sb260"
     }
   ],
-  "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced",
-      "date": "2025-02-11",
+      "description": "Approved by Governor on Tuesday, April 7, 2026",
+      "date": "2026-04-09",
       "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to Governor on Monday, March 30, 2026",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report was adopted; Yea 39, Nay 1",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report was adopted; Yea 98, Nay 27",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Conference committee report now available",
+      "date": "2026-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Rep. Pat Proctor, Rep. Paul Waggoner, and Rep. Kirk Haskins are appointed to replace Rep. Tom Kessler, Rep. Rebecca Schmoe, and Rep. Heather Meyer on the Conference Committee",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Motion to accede adopted; Rep. Tom Kessler, Rep. Rebecca Schmoe and Rep. Heather Meyer appointed as conferees",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Nonconcurred with amendments; Conference Committee requested; appointed Sen. Mike Thompson, Sen. Tory Marie Blew and Sen. Oletha Faust Goudeau",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Emergency Final Action - Substitute passed; Yea 110, Nay 14, Absent 1",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Motion to advance to Emergency Final Action adopted; \u2014",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Substitute bill be passed",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Committee Report be adopted recommending substitute bill be passed",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending substitute bill be passed by House Committee on Federal and State Affairs",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Federal and State Affairs",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Received and Introduced",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
       ],
@@ -29,44 +189,24 @@
       }
     },
     {
-      "description": "Referred to Committee on Federal and State Affairs",
-      "date": "2025-02-13",
+      "description": "Final Action - Passed as amended; Yea 36, Nay 4",
+      "date": "2025-02-19",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "referral-committee"
+        "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:28Z"
       }
     },
     {
-      "description": "Hearing: Monday, February 17, 2025, 10:30 AM Room 144-S",
-      "date": "2025-02-13",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee Report recommending bill be passed as amended by Committee on Federal and State Affairs",
-      "date": "2025-02-17",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Now working on",
+      "description": "Committee of the Whole - Be passed as amended",
       "date": "2025-02-18",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "passage"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:31:40Z"
@@ -83,33 +223,33 @@
       }
     },
     {
-      "description": "Committee of the Whole - Be passed as amended",
-      "date": "2025-02-18",
+      "description": "Committee Report recommending bill be passed as amended by Senate Committee on Federal and State Affairs",
+      "date": "2025-02-17",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage"
+        "committee-passage-favorable"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:28Z"
       }
     },
     {
-      "description": "Final Action - Passed as amended;  Yea: 36 Nay: 4",
-      "date": "2025-02-19",
+      "description": "Referred to Senate Committee on Federal and State Affairs",
+      "date": "2025-02-13",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage"
+        "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:28Z"
       }
     },
     {
-      "description": "Received and Introduced",
-      "date": "2025-02-25",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Introduced",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction"
       ],
@@ -117,39 +257,53 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:31:40Z"
       }
-    },
-    {
-      "description": "Referred to Committee on Federal and State Affairs",
-      "date": "2025-02-26",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Hearing: Thursday, March 13, 2025, 9:00 AM Room 346-S",
-      "date": "2025-03-05",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Committee on Ways and Means",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Ways and Means\"}"
+    },
+    {
+      "name": "Committee on Federal and State Affairs",
+      "classification": "cosponsor",
+      "entity_type": "organization",
+      "primary": false,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Federal and State Affairs\"}"
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
-      "note": "As introduced",
+      "note": "Enrolled",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb260_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year2/ready_for_publication/sb_260/sb260_enrolled.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year2/ready_for_publication/sb_260/sb260_enrolled.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "H Sub for",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year2/ready_for_publication/sb_260/sb260_02_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year2/ready_for_publication/sb_260/sb260_02_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -159,8 +313,27 @@
       "note": "As Amended by Senate Committee",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb260_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_260/sb260_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_260/sb260_01_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_260/sb260_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_260/sb260_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -169,22 +342,45 @@
   ],
   "documents": [
     {
-      "note": "As introduced Fiscal Note",
+      "note": "H Sub for Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_sb260_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_sb260_02_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_sb260_02_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As Amended by Senate Committee Supp Note",
+      "note": "As Amended by Senate Committee Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_sb260_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_sb260_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_sb260_01_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_sb260_00_0000/fisc_note_sb260_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_sb260_00_0000/fisc_note_sb260_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -194,17 +390,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB260/",
-      "note": ""
-    },
-    {
-      "url": "http://kslegislature.org/li/b2025_26/measures/sb260/",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/SB260/",
       "note": ""
     }
   ],
-  "extras": {
-    "status": "introduced"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ks/government",
     "name": "Kansas",
@@ -212,6 +402,6 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:31:40Z"
+    "logs_latest_update": "2026-05-09T13:38:28Z"
   }
 }

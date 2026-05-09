@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conference Committee Report was adopted; Yea 104, Nay 17, Absent 4",
+    "date": "2026-03-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB20"
+}

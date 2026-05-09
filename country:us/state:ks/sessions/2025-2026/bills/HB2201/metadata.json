@@ -8,243 +8,20 @@
   ],
   "subject": [],
   "abstracts": [],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "",
-      "title": "AN ACT concerning motor vehicles; relating to license plates; providing for the FFA, route 66 association of Kansas and blackout distinctive license plates; allowing an applicant for a personalized license plate to be issued one such license plate instead of two; eliminating the requirement that applications for personalized license plates be made within 60 days from vehicle registration renewals; discontinuing the option for a person to display a second personalized license plate on the front of a vehicle; modifying current requirements for the design and issuance of license plate registration decals; modifying the documentation requirements for military veteran license plates to align with updated military veteran documentation standards; eliminating the requirement for applicants to submit military license plate applications 60 days prior to vehicle registration renewals; amending K.S.A. 8-132, 8-147, 8-1,146, 8-1,194, 8-1,195, 8-1,196, 8-1,197, 8-1,198 and 8-1,199 and K.S.A. 2024 Supp. 8-134 and repealing the existing sections."
+      "identifier": "ocd-bill-ks-2025_2026-hb2201"
     }
   ],
-  "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced",
-      "date": "2025-01-31",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Referred to Committee on Transportation",
-      "date": "2025-02-03",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Hearing: Tuesday, February 11, 2025, 1:30 PM Room 582-N",
-      "date": "2025-02-05",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee Report recommending bill be passed by Committee on Transportation",
-      "date": "2025-02-13",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Now working on",
-      "date": "2025-02-18",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Be passed",
-      "date": "2025-02-18",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Final Action - Passed;   Yea: 110 Nay: 9",
-      "date": "2025-02-19",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Received and Introduced",
-      "date": "2025-02-19",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Referred to Committee on Transportation",
-      "date": "2025-02-20",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Hearing: Thursday, March 6, 2025, 8:30 AM Room 546-S",
-      "date": "2025-02-26",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee Report recommending bill be passed as amended by Committee on Transportation",
-      "date": "2025-03-11",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Now working on",
-      "date": "2025-03-17",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Committee Report be adopted",
-      "date": "2025-03-17",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Be passed as amended",
-      "date": "2025-03-17",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Final Action - Passed as amended;  Yea: 39 Nay: 1",
-      "date": "2025-03-18",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Nonconcurred with amendments; Conference Committee requested; appointed",
-      "date": "2025-03-20",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Motion to accede adopted;  Senator Petersen,  Senator Kloos and  Senator Corson appointed as  conferees",
-      "date": "2025-03-20",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Conference committee report now available",
-      "date": "2025-03-25",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Conference Committee Report was adopted;  Yea: 39 Nay: 1",
-      "date": "2025-03-25",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Conference Committee Report was adopted;  Yea: 110 Nay: 12",
-      "date": "2025-03-25",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Engrossed on Monday, March 31, 2025",
+      "description": "Approved by Governor on Tuesday, April 8, 2025",
       "date": "2025-04-10",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "executive-signature"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:31:40Z"
@@ -263,11 +40,189 @@
       }
     },
     {
-      "description": "Approved by Governor on Tuesday, April 8, 2025",
+      "description": "Engrossed on Monday, March 31, 2025",
       "date": "2025-04-10",
       "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T08:31:40Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report was adopted; Yea 110, Nay 12, Absent 3",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report was adopted; Yea 39, Nay 1",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Conference committee report now available",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T08:31:40Z"
+      }
+    },
+    {
+      "description": "Motion to accede adopted; Sen. Mike Petersen, Sen. Rick Kloos and Sen. Ethan Corson appointed as conferees",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Nonconcurred with amendments; Conference Committee requested; appointed Rep. Shannon Francis, Rep. Robyn R. Essex and Rep. Henry Helgerson",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Final Action - Passed as amended; Yea 39, Nay 1",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "executive-signature"
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Be passed as amended",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T08:31:40Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Committee Report be adopted",
+      "date": "2025-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T08:31:40Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending bill be passed as amended by Senate Committee on Transportation",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Referred to Senate Committee on Transportation",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Received and Introduced",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T08:31:40Z"
+      }
+    },
+    {
+      "description": "Final Action - Passed; Yea 110, Nay 9, Absent 6",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Be passed",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T08:31:40Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending bill be passed by House Committee on Transportation",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Transportation",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-01-31",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
@@ -275,15 +230,28 @@
       }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Committee on Transportation",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Transportation\"}"
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
-      "note": "As introduced",
+      "note": "Enrolled",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2201_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2201/hb2201_enrolled.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2201/hb2201_enrolled.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -293,19 +261,27 @@
       "note": "As Amended by Senate Committee",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2201_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb2201_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb2201_01_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "Enrolled",
+      "note": "As Introduced",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2201_enrolled.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2201/hb2201_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2201/hb2201_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -314,33 +290,45 @@
   ],
   "documents": [
     {
-      "note": "As introduced Fiscal Note",
+      "note": "As Amended by Senate Committee Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_hb2201_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_hb2201_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_hb2201_01_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As introduced Supp Note",
+      "note": "As Introduced Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_hb2201_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_hb2201_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_hb2201_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As Amended by Senate Committee Supp Note",
+      "note": "As Introduced Fiscal Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_hb2201_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_hb2201_00_0000/fisc_note_hb2201_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_hb2201_00_0000/fisc_note_hb2201_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -350,17 +338,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/HB2201/",
-      "note": ""
-    },
-    {
-      "url": "http://kslegislature.org/li/b2025_26/measures/hb2201/",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/HB2201/",
       "note": ""
     }
   ],
-  "extras": {
-    "status": "enacted"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ks/government",
     "name": "Kansas",
@@ -368,6 +350,6 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:31:40Z"
+    "logs_latest_update": "2026-05-09T13:38:28Z"
   }
 }

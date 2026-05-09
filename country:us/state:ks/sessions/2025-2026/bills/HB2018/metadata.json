@@ -1,105 +1,138 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "HB2018",
-  "title": "Prohibiting the disqualification of active military members, spouses or other dependents as poll workers by county election officers on the basis of residency or registered voter status.",
+  "title": "Senate Substitute for HB 2018 by Committee on Federal and State Affairs - Creating the crime of interference with the conduct of a religious assembly, providing criminal penalties therefor and providing for a civil cause of action for damages.",
   "from_organization": "~{\"classification\": \"lower\"}",
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Elections"
+  ],
   "abstracts": [],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "",
-      "title": "AN ACT concerning elections; relating to the qualifications of poll workers; requiring poll workers be citizens of the United States and live within the state of Kansas; prohibiting the disqualification of active military members, spouses or other dependents as poll workers on the basis of residency or registered voter status; amending K.S.A. 25-2804 and repealing the existing section."
+      "identifier": "ocd-bill-ks-2025_2026-hb2018"
     }
   ],
-  "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced",
-      "date": "2025-01-16",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Referred to Committee on Elections",
-      "date": "2025-01-17",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Hearing: Tuesday, January 28, 2025, 3:30 PM Room 218-N",
-      "date": "2025-01-22",
+      "description": "Will become law without Governor's signature",
+      "date": "2026-04-10",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Committee Report recommending bill be passed as amended by Committee on Elections",
-      "date": "2025-02-06",
+      "description": "Enrolled and presented to Governor on Friday, April 3, 2026",
+      "date": "2026-04-09",
       "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Concurred with amendments in conference; Yea 106, Nay 14, Absent 5",
+      "date": "2026-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Motion to accede adopted; Sen. Mike Thompson, Sen. Tory Marie Blew and Sen. Oletha Faust Goudeau appointed as conferees",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Nonconcurred with amendments; Conference Committee requested; appointed Rep. Tom Kessler, Rep. Rebecca Schmoe and Rep. Heather Meyer",
+      "date": "2026-03-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Final Action - Substitute passed; Yea 34, Nay 6",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Substitute bill be passed",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Committee Report be adopted recommending substitute bill be passed",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending substitute bill be passed by Senate Committee on Federal and State Affairs",
+      "date": "2026-03-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "committee-passage-favorable"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Committee of the Whole - Now working on",
-      "date": "2025-02-14",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Committee Report be adopted",
-      "date": "2025-02-14",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Be passed as amended",
-      "date": "2025-02-14",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Referred to Senate Committee on Federal and State Affairs",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage"
+        "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Emergency Final Action - Passed as amended;  Yea: 107 Nay: 12",
-      "date": "2025-02-14",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Received and Introduced",
+      "date": "2025-02-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage"
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
@@ -117,11 +150,33 @@
       }
     },
     {
-      "description": "Received and Introduced",
-      "date": "2025-02-17",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Emergency Final Action - Passed as amended; Yea 107, Nay 12, Absent 6",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction"
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Motion to advance to Emergency Final Action adopted; \u2014",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Be passed as amended",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -129,11 +184,45 @@
       }
     },
     {
-      "description": "Referred to Committee on Federal and State Affairs",
-      "date": "2025-02-18",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Committee of the Whole - Committee Report be adopted",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T08:31:40Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending bill be passed as amended by House Committee on Elections",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Elections",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
@@ -141,15 +230,51 @@
       }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Committee on Elections",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Elections\"}"
+    },
+    {
+      "name": "Committee on Federal and State Affairs",
+      "classification": "cosponsor",
+      "entity_type": "organization",
+      "primary": false,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Federal and State Affairs\"}"
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
-      "note": "As introduced",
+      "note": "Enrolled",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2018_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year2/ready_for_publication/hb_2018/hb2018_enrolled.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year2/ready_for_publication/hb_2018/hb2018_enrolled.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "S Sub for",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year2/ready_for_publication/hb_2018/hb2018_02_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year2/ready_for_publication/hb_2018/hb2018_02_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -159,8 +284,27 @@
       "note": "As Amended by House Committee",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2018_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2018/hb2018_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2018/hb2018_01_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2018/hb2018_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2018/hb2018_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -169,22 +313,45 @@
   ],
   "documents": [
     {
-      "note": "As introduced Fiscal Note",
+      "note": "S Sub for Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_hb2018_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_hb2018_02_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_hb2018_02_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As Amended by House Committee Supp Note",
+      "note": "As Amended by House Committee Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_hb2018_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_hb2018_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_hb2018_01_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced Fiscal Note",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_hb2018_00_0000/fisc_note_hb2018_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_hb2018_00_0000/fisc_note_hb2018_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -194,17 +361,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/HB2018/",
-      "note": ""
-    },
-    {
-      "url": "http://kslegislature.org/li/b2025_26/measures/hb2018/",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/HB2018/",
       "note": ""
     }
   ],
-  "extras": {
-    "status": "introduced"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ks/government",
     "name": "Kansas",
@@ -212,6 +373,6 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:31:40Z"
+    "logs_latest_update": "2026-05-09T13:38:27Z"
   }
 }

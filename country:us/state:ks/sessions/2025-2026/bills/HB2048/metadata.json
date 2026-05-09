@@ -6,125 +6,68 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Insurance"
+  ],
   "abstracts": [],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "",
-      "title": "AN ACT concerning insurance; relating to the powers, duties and responsibilities of the commissioner; eliminating the requirement that the commissioner submit certain reports to the governor; removing certain specific entities from the definition of person for the purpose of enforcing insurance law; amending K.S.A. 40-108 and 40-2253 and K.S.A. 2024 Supp. 40-2,125 and repealing the existing sections."
+      "identifier": "ocd-bill-ks-2025_2026-hb2048"
     }
   ],
-  "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced",
-      "date": "2025-01-21",
+      "description": "Died on Calendar",
+      "date": "2026-04-10",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction"
+        "failure"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Hearing: Monday, January 27, 2025, 3:30 PM Room 218-N",
-      "date": "2025-01-22",
+      "description": "Motion to accede adopted; Sen. Brenda Dietrich, Sen. Michael Fagg and Sen. Marci Francisco appointed as conferees",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Nonconcurred with amendments; Conference Committee requested; appointed Rep. Bill Sutton, Rep. Brian Bergkamp and Rep. Cindy Neighbor",
+      "date": "2025-03-20",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Referred to Committee on Insurance",
-      "date": "2025-01-22",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee Report recommending bill be passed and placed on Consent Calendar by",
-      "date": "2025-01-30",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Final Action - Passed;   Yea: 105 Nay: 12",
-      "date": "2025-02-05",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Final Action - Passed as amended; Yea 40, Nay 0",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Received and Introduced",
-      "date": "2025-02-05",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Referred to Committee on Financial Institutions and Insurance",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Hearing: Tuesday, February 25, 2025, 9:30 AM Room 546-S",
-      "date": "2025-02-19",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee Report recommending bill be passed as amended by Committee on Financial Institutions and Insurance",
-      "date": "2025-03-11",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Now working on",
+      "description": "Committee of the Whole - Be passed as amended",
       "date": "2025-03-18",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "passage"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:31:40Z"
@@ -141,11 +84,35 @@
       }
     },
     {
-      "description": "Committee of the Whole - Be passed as amended",
-      "date": "2025-03-18",
+      "description": "Committee Report recommending bill be passed as amended by Senate Committee on Financial Institutions and Insurance",
+      "date": "2025-03-11",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage"
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Referred to Senate Committee on Financial Institutions and Insurance",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Received and Introduced",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
@@ -153,58 +120,91 @@
       }
     },
     {
-      "description": "Final Action - Passed as amended;  Yea: 40 Nay: 0",
-      "date": "2025-03-19",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Nonconcurred with amendments; Conference Committee requested; appointed",
-      "date": "2025-03-20",
+      "description": "Final Action - Passed; Yea 105, Nay 12, Absent 8",
+      "date": "2025-02-05",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
+      "classification": [
+        "passage"
+      ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Motion to accede adopted;  Senator Dietrich,  Senator Fagg and  Senator Francisco appointed as  conferees",
-      "date": "2025-03-20",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "description": "Committee Report recommending bill be passed and placed on Consent Calendar by House Committee on Insurance",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Insurance",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:31:40Z"
       }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Committee on Insurance",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Insurance\"}"
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
-      "note": "As introduced",
+      "note": "As Amended by Senate Committee",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2048_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2048/hb2048_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2048/hb2048_01_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As Amended by Senate Committee",
+      "note": "As Introduced",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2048_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2048/hb2048_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2048/hb2048_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -213,33 +213,45 @@
   ],
   "documents": [
     {
-      "note": "As introduced Fiscal Note",
+      "note": "As Amended by Senate Committee Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_hb2048_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_hb2048_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_hb2048_01_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As introduced Supp Note",
+      "note": "As Introduced Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_hb2048_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_hb2048_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_hb2048_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As Amended by Senate Committee Supp Note",
+      "note": "As Introduced Fiscal Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_hb2048_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_hb2048_00_0000/fisc_note_hb2048_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_hb2048_00_0000/fisc_note_hb2048_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -249,17 +261,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/HB2048/",
-      "note": ""
-    },
-    {
-      "url": "http://kslegislature.org/li/b2025_26/measures/hb2048/",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/HB2048/",
       "note": ""
     }
   ],
-  "extras": {
-    "status": "introduced"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ks/government",
     "name": "Kansas",
@@ -267,6 +273,6 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:31:40Z"
+    "logs_latest_update": "2026-05-09T13:38:27Z"
   }
 }

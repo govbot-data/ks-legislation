@@ -6,20 +6,227 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Schools"
+  ],
   "abstracts": [],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "",
-      "title": "AN ACT concerning education; requiring school districts to include a human fetal development presentation as part of the curriculum for any course that addresses human growth, human development or human sexuality; authorizing the state board of education to establish the rate of compensation for members of the state board; amending K.S.A. 72-253 and repealing the existing section."
+      "identifier": "ocd-bill-ks-2025_2026-hb2382"
     }
   ],
-  "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced",
-      "date": "2025-02-13",
+      "description": "Law effective July 1, 2025",
+      "date": "2025-04-11",
       "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Motion to override veto prevailed; Yea 31, Nay 9",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Motion to override veto prevailed; Yea 84, Nay 41",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Vetoed by Governor; Returned to House on Wednesday, April 9, 2025",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T08:31:40Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to Governor on Monday, March 31, 2025",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T08:31:40Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report was adopted; Yea 84, Nay 40, Absent 1",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report was adopted; Yea 31, Nay 9",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Conference committee report now available",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T08:31:40Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report agree to disagree adopted; Rep. Jason W. Goetz, Rep. Scott Hill and Rep. Mari-Lynn Poskin appointed as second conferees",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report agree to disagree adopted; Sen. Renee Erickson, Sen. Adam Thomas and Sen. Dinah Sykes appointed as second conferees",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Conference committee report now available",
+      "date": "2025-03-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T08:31:40Z"
+      }
+    },
+    {
+      "description": "Rep. Mari-Lynn Poskin is appointed to replace Rep. Valdenia Winn on the Conference Committee",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Motion to accede adopted; Sen. Renee Erickson, Sen. Adam Thomas and Sen. Dinah Sykes appointed as conferees",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Nonconcurred with amendments; Conference Committee requested; appointed Rep. Jason W. Goetz, Rep. Scott Hill and Rep. Valdenia Winn",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Emergency Final Action - Substitute passed; Yea 29, Nay 11",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Substitute bill be passed",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T08:31:40Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Committee Report be adopted recommending substitute bill be passed",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "substitution"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T08:31:40Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending substitute bill be passed by Senate Committee on Education",
+      "date": "2025-03-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Referred to Senate Committee on Education",
+      "date": "2025-03-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Received and Introduced",
+      "date": "2025-03-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction"
       ],
@@ -29,88 +236,20 @@
       }
     },
     {
-      "description": "Referred to Committee on Appropriations",
-      "date": "2025-02-14",
+      "description": "Final Action - Passed as amended; Yea 115, Nay 7, Absent 3",
+      "date": "2025-03-07",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "referral-committee"
+        "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:28Z"
       }
     },
     {
-      "description": "Withdrawn from  Committee on Appropriations; Referred to Committee on K-12 Education Budget",
-      "date": "2025-02-14",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Hearing: Monday, February 17, 2025, 3:30 PM Room 546-S",
-      "date": "2025-02-14",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee Report recommending bill be passed as amended by Committee on K-12 Education Budget",
-      "date": "2025-02-18",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Withdrawn from Calendar, Rereferred to Committee on K-12 Education Budget",
-      "date": "2025-02-25",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee Report recommending bill be passed as amended by Committee on K-12 Education Budget",
-      "date": "2025-03-04",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Now working on",
-      "date": "2025-03-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Committee Report be adopted",
-      "date": "2025-03-06",
+      "description": "Engrossed on Thursday, March 6, 2025",
+      "date": "2025-03-07",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
@@ -131,8 +270,8 @@
       }
     },
     {
-      "description": "Engrossed on Thursday, March 6, 2025",
-      "date": "2025-03-07",
+      "description": "Committee of the Whole - Committee Report be adopted",
+      "date": "2025-03-06",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
@@ -141,21 +280,69 @@
       }
     },
     {
-      "description": "Final Action - Passed as amended;  Yea: 115 Nay: 7",
-      "date": "2025-03-07",
+      "description": "Committee Report recommending bill be passed as amended by House Committee on K-12 Education Budget",
+      "date": "2025-03-04",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "passage"
+        "committee-passage-favorable"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:28Z"
       }
     },
     {
-      "description": "Received and Introduced",
-      "date": "2025-03-10",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Withdrawn from Calendar, Rereferred to House Committee on K-12 Education Budget",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Committee Report recommending bill be passed as amended by House Committee on K-12 Education Budget",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Withdrawn from House Committee on K-12 Education Budget; Referred to House Committee on K-12 Education Budget",
+      "date": "2025-02-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Appropriations",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
       ],
@@ -163,264 +350,38 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:31:40Z"
       }
-    },
-    {
-      "description": "Referred to Committee on Education",
-      "date": "2025-03-11",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Hearing: Wednesday, March 12, 2025, 1:30 PM Room 144-S",
-      "date": "2025-03-11",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee Report recommending substitute bill be passed by Committee on Education",
-      "date": "2025-03-18",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Now working on",
-      "date": "2025-03-20",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Committee Report be adopted recommending substitute bill be passed",
-      "date": "2025-03-20",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage",
-        "substitution"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Substitute bill be passed",
-      "date": "2025-03-20",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage",
-        "substitution"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Emergency Final Action - Substitute passed;   Yea: 29 Nay: 11",
-      "date": "2025-03-20",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage",
-        "substitution"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Nonconcurred with amendments; Conference Committee requested; appointed",
-      "date": "2025-03-24",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Motion to accede adopted;  Senator Erickson,  Senator Thomas and  Senator Sykes appointed as  conferees",
-      "date": "2025-03-24",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Representative Poskin is appointed to replace  Representative Winn on the Conference Committee",
-      "date": "2025-03-25",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Conference committee report now available",
-      "date": "2025-03-26",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Conference Committee Report agree to disagree adopted;  Senator Erickson,  Senator Thomas and  Senator Sykes appointed as second conferees",
-      "date": "2025-03-26",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Conference Committee Report agree to disagree adopted;  Representative Goetz,  Representative Hill and  Representative Poskin appointed as second conferees",
-      "date": "2025-03-26",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Conference committee report now available",
-      "date": "2025-03-26",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Conference Committee Report was adopted;  Yea: 31 Nay: 9",
-      "date": "2025-03-26",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Conference Committee Report was adopted;  Yea: 84 Nay: 40",
-      "date": "2025-03-27",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Enrolled and presented to Governor on Monday, March 31, 2025",
-      "date": "2025-04-10",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "executive-receipt"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Vetoed by Governor; Returned to House on Wednesday, April 9, 2025",
-      "date": "2025-04-10",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "executive-veto"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Motion to override veto prevailed;  Yea: 84 Nay: 41",
-      "date": "2025-04-10",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "veto-override-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Motion to override veto prevailed;  Yea: 31 Nay: 9",
-      "date": "2025-04-10",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "veto-override-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Committee on Appropriations",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Appropriations\"}"
+    },
+    {
+      "name": "Committee on Education",
+      "classification": "cosponsor",
+      "entity_type": "organization",
+      "primary": false,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Education\"}"
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
-      "note": "As introduced",
+      "note": "Enrolled",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2382_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2382/hb2382_enrolled.pdf",
           "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "As Amended by House Committee",
-      "links": [
+        },
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2382_01_0000.pdf",
-          "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "As Further Amended by House Committee",
-      "links": [
-        {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2382_02_0000.pdf",
-          "media_type": "application/pdf"
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2382/hb2382_enrolled.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -430,19 +391,57 @@
       "note": "S Sub for",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2382_03_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb2382_03_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb2382_03_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "Enrolled - Law effective July 1, 2025",
+      "note": "As Further Amended by House Committee",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2382_enrolled.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year2/ready_for_publication/hb_2382/hb2382_02_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year2/ready_for_publication/hb_2382/hb2382_02_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Amended by House Committee",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2382/hb2382_01_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2382/hb2382_01_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2382/hb2382_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2382/hb2382_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -451,44 +450,60 @@
   ],
   "documents": [
     {
-      "note": "As introduced Fiscal Note",
+      "note": "S Sub for Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_hb2382_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_hb2382_03_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_hb2382_03_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As Amended by House Committee Supp Note",
+      "note": "As Further Amended by House Committee Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_hb2382_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_hb2382_02_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_hb2382_02_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As Further Amended by House Committee Supp Note",
+      "note": "As Amended by House Committee Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_hb2382_02_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_hb2382_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_hb2382_01_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "S Sub for Supp Note",
+      "note": "As Introduced Fiscal Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_hb2382_03_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_hb2382_00_0000/fisc_note_hb2382_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_hb2382_00_0000/fisc_note_hb2382_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -498,18 +513,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/HB2382/",
-      "note": ""
-    },
-    {
-      "url": "http://kslegislature.org/li/b2025_26/measures/hb2382/",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/HB2382/",
       "note": ""
     }
   ],
-  "extras": {
-    "status": "introduced",
-    "date_effective": "2025-07-01"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ks/government",
     "name": "Kansas",
@@ -517,6 +525,6 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:31:40Z"
+    "logs_latest_update": "2026-05-09T13:38:28Z"
   }
 }

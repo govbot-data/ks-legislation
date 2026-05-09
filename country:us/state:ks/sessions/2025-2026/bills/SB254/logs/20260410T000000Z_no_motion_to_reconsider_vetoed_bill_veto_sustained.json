@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "No motion to reconsider vetoed bill; Veto sustained",
+    "date": "2026-04-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB254"
+}

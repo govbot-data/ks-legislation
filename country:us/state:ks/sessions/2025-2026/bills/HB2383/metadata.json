@@ -6,16 +6,42 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Children and Minors",
+    "Health and Environment, Department of"
+  ],
   "abstracts": [],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "",
-      "title": "AN ACT concerning child care; relating to the department of administration, the Kansas children's cabinet and the department of health and environment; establishing a pilot program to provide health services to child care providers; making telehealth consultation services available to eligible child care providers; providing up to $100 per month in reimbursements for prescription medication costs to child care providers accepted into the health services program; prohibiting cities, counties or other political subdivisions from regulating licensed child care providers more strictly than state law; requiring the department of health and environment to provide a list of licensed child care providers to any city, county or other political subdivision upon request; providing any licensed in-home or group-home child care providers that receive a lower tier of reimbursement under the child and adult care food program to be matched with the top tier of funding that is otherwise made available to other providers under the program; developing and providing free orientation and training programs and training materials to child care providers and licensees; allowing orientation and training to count as continuing education hours; requiring the department and the Kansas children's cabinet to develop a training reimbursement program; amending K.S.A. 65-508 and repealing the existing section."
+      "identifier": "ocd-bill-ks-2025_2026-hb2383"
     }
   ],
-  "other_identifiers": [],
   "actions": [
+    {
+      "description": "Died in Committee",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Appropriations",
+      "date": "2025-02-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
     {
       "description": "Introduced",
       "date": "2025-02-13",
@@ -27,29 +53,30 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:31:40Z"
       }
-    },
-    {
-      "description": "Referred to Committee on Appropriations",
-      "date": "2025-02-14",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Committee on Appropriations",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Appropriations\"}"
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
-      "note": "As introduced",
+      "note": "As Introduced",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2383_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2383/hb2383_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2383/hb2383_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -58,11 +85,15 @@
   ],
   "documents": [
     {
-      "note": "As introduced Fiscal Note",
+      "note": "As Introduced Fiscal Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_hb2383_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_hb2383_00_0000/fisc_note_hb2383_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_hb2383_00_0000/fisc_note_hb2383_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -72,17 +103,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/HB2383/",
-      "note": ""
-    },
-    {
-      "url": "http://kslegislature.org/li/b2025_26/measures/hb2383/",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/HB2383/",
       "note": ""
     }
   ],
-  "extras": {
-    "status": "introduced"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ks/government",
     "name": "Kansas",
@@ -90,6 +115,6 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:31:40Z"
+    "logs_latest_update": "2026-05-09T13:38:28Z"
   }
 }

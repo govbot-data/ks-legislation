@@ -6,16 +6,48 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Cannabis",
+    "Crimes, Punishment and Criminal Procedure",
+    "Discrimination",
+    "Funds",
+    "Health and Environment, Department of",
+    "Health and Healthcare",
+    "Named Acts",
+    "Workers Compensation"
+  ],
   "abstracts": [],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "",
-      "title": "AN ACT concerning health and healthcare; relating to medical cannabis; enacting the Kansas medical cannabis act; providing for the licensure and regulation of the cultivation, processing, manufacturing, distribution, sale and use of medical cannabis and medical cannabis products; establishing the medical cannabis registration fund and the medical cannabis regulation fund; making exceptions to the crimes of unlawful manufacture and possession of controlled substances; amending K.S.A. 21-5703, 21-5706, 21-5707, 21-5709, 21-5710, 21-6109, 23-3201, 38-2269, 44-1009, 44-1015, 79-5201 and 79-5210 and K.S.A. 2024 Supp. 8-1567, 21-5705, 21-6607, 22-3717, 22-4714, 44-501, 44-706, 65-1120 and 65-28b08 and repealing the existing sections."
+      "identifier": "ocd-bill-ks-2025_2026-sb294"
     }
   ],
-  "other_identifiers": [],
   "actions": [
+    {
+      "description": "Died in Committee",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Referred to Senate Committee on Federal and State Affairs",
+      "date": "2025-03-07",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
     {
       "description": "Introduced",
       "date": "2025-03-06",
@@ -27,29 +59,30 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:31:39Z"
       }
-    },
-    {
-      "description": "Referred to Committee on Federal and State Affairs",
-      "date": "2025-03-07",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Committee on Federal and State Affairs",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Federal and State Affairs\"}"
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
-      "note": "As introduced",
+      "note": "As Introduced",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb294_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_294/sb294_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_294/sb294_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -60,17 +93,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB294/",
-      "note": ""
-    },
-    {
-      "url": "http://kslegislature.org/li/b2025_26/measures/sb294/",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/SB294/",
       "note": ""
     }
   ],
-  "extras": {
-    "status": "introduced"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ks/government",
     "name": "Kansas",
@@ -78,6 +105,6 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:31:39Z"
+    "logs_latest_update": "2026-05-09T13:38:27Z"
   }
 }

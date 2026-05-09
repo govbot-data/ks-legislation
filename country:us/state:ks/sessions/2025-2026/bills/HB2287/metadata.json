@@ -6,16 +6,42 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Children and Families, Department for",
+    "Health and Healthcare"
+  ],
   "abstracts": [],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "",
-      "title": "AN ACT concerning public assistance; relating to the secretary for children and families; eliminating certain restrictions for eligibility for public assistance; removing the requirement to cooperate with child support services for eligibility; extending the lifetime limitation of temporary assistance for needy families to 60 months; providing for hardship extensions to be granted by the secretary for children and families; exempting parents providing care for a child less than one year of age from work participation activities; eliminating restrictions on persons convicted of drug felonies from receiving food assistance; permitting the secretary to grant categorical eligibility standards; eliminating photograph requirements on benefits cards; eliminating requirements for  employment and training programs for certain individuals to be eligible for food assistance; eliminating legislative action to be required for expansion of the medical assistance program; amending K.S.A. 39-702 and K.S.A. 2024 Supp. 39-709 and repealing the existing sections."
+      "identifier": "ocd-bill-ks-2025_2026-hb2287"
     }
   ],
-  "other_identifiers": [],
   "actions": [
+    {
+      "description": "Died in Committee",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Welfare Reform",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
     {
       "description": "Introduced",
       "date": "2025-02-05",
@@ -27,29 +53,30 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:31:40Z"
       }
-    },
-    {
-      "description": "Referred to Committee on Welfare Reform",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Committee on Welfare Reform",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Welfare Reform\"}"
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
-      "note": "As introduced",
+      "note": "As Introduced",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2287_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2287/hb2287_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2287/hb2287_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -58,11 +85,15 @@
   ],
   "documents": [
     {
-      "note": "As introduced Fiscal Note",
+      "note": "As Introduced Fiscal Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_hb2287_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_hb2287_00_0000/fisc_note_hb2287_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_hb2287_00_0000/fisc_note_hb2287_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -72,17 +103,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/HB2287/",
-      "note": ""
-    },
-    {
-      "url": "http://kslegislature.org/li/b2025_26/measures/hb2287/",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/HB2287/",
       "note": ""
     }
   ],
-  "extras": {
-    "status": "introduced"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ks/government",
     "name": "Kansas",
@@ -90,6 +115,6 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:31:40Z"
+    "logs_latest_update": "2026-05-09T13:38:27Z"
   }
 }

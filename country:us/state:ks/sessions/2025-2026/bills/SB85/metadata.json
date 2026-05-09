@@ -6,20 +6,45 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Children and Families, Department for"
+  ],
   "abstracts": [],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "",
-      "title": "AN ACT concerning public assistance; relating to the secretary for children and families; directing the secretary to enter into agreements with state agencies for the continuous review and comparison of data for public assistance eligibility; requiring the secretary to review federal sources to verify such eligibility."
+      "identifier": "ocd-bill-ks-2025_2026-sb85"
     }
   ],
-  "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced",
-      "date": "2025-01-28",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Died in House Committee",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Welfare Reform",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Received and Introduced",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
       ],
@@ -29,44 +54,24 @@
       }
     },
     {
-      "description": "Referred to Committee on Government Efficiency",
-      "date": "2025-01-29",
+      "description": "Final Action - Passed as amended; Yea 30, Nay 10",
+      "date": "2025-02-19",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "referral-committee"
+        "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Hearing: Wednesday, February 5, 2025, 9:30 AM Room 144-S",
-      "date": "2025-01-29",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee Report recommending bill be passed as amended by Committee on Government Efficiency",
-      "date": "2025-02-13",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Now working on",
+      "description": "Committee of the Whole - Be passed as amended",
       "date": "2025-02-18",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "passage"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:31:40Z"
@@ -83,33 +88,33 @@
       }
     },
     {
-      "description": "Committee of the Whole - Be passed as amended",
-      "date": "2025-02-18",
+      "description": "Committee Report recommending bill be passed as amended by Senate Committee on Government Efficiency",
+      "date": "2025-02-13",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage"
+        "committee-passage-favorable"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Final Action - Passed as amended;  Yea: 30 Nay: 10",
-      "date": "2025-02-19",
+      "description": "Referred to Senate Committee on Government Efficiency",
+      "date": "2025-01-29",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage"
+        "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Received and Introduced",
-      "date": "2025-02-25",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Introduced",
+      "date": "2025-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction"
       ],
@@ -117,50 +122,45 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:31:40Z"
       }
-    },
-    {
-      "description": "Referred to Committee on Welfare Reform",
-      "date": "2025-02-26",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Hearing: Thursday, March 6, 2025, 1:30 PM Room 152-S",
-      "date": "2025-03-03",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Committee on Government Efficiency",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Government Efficiency\"}"
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
-      "note": "As introduced",
+      "note": "As Amended by Senate Committee",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb85_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_85/sb85_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_85/sb85_01_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As Amended by Senate Committee",
+      "note": "As Introduced",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb85_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_85/sb85_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_85/sb85_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -169,11 +169,15 @@
   ],
   "documents": [
     {
-      "note": "As introduced Fiscal Note",
+      "note": "As Amended by Senate Committee Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_sb85_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_sb85_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_sb85_01_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -183,19 +187,27 @@
       "note": "As Amended by Senate Committee Fiscal Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_sb85_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_sb85_01_0000/fisc_note_sb85_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_sb85_01_0000/fisc_note_sb85_01_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As Amended by Senate Committee Supp Note",
+      "note": "As Introduced Fiscal Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_sb85_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_sb85_00_0000/fisc_note_sb85_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_sb85_00_0000/fisc_note_sb85_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -205,17 +217,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB85/",
-      "note": ""
-    },
-    {
-      "url": "http://kslegislature.org/li/b2025_26/measures/sb85/",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/SB85/",
       "note": ""
     }
   ],
-  "extras": {
-    "status": "introduced"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ks/government",
     "name": "Kansas",
@@ -223,6 +229,6 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:31:40Z"
+    "logs_latest_update": "2026-05-09T13:38:27Z"
   }
 }

@@ -6,20 +6,46 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Financial Institutions",
+    "Taxation"
+  ],
   "abstracts": [],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "",
-      "title": "AN ACT concerning taxation; relating to income and privilege taxes; providing that future tax rate decreases be contingent on exceeding revenue estimates; amending K.S.A. 2024 Supp. 79-1107, 79-1108 and 79-32,110 and repealing the existing sections."
+      "identifier": "ocd-bill-ks-2025_2026-sb259"
     }
   ],
-  "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced",
-      "date": "2025-02-11",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Died in House Committee",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Taxation",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Received and Introduced",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "introduction"
       ],
@@ -29,44 +55,24 @@
       }
     },
     {
-      "description": "Referred to Committee on Assessment and Taxation",
-      "date": "2025-02-13",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Hearing: Tuesday, March 4, 2025, 9:30 AM Room 548-S",
-      "date": "2025-02-26",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Committee Report recommending bill be passed as amended by Committee on Assessment and Taxation",
-      "date": "2025-03-18",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Now working on",
+      "description": "Emergency Final Action - Passed as amended; Yea 30, Nay 10",
       "date": "2025-03-20",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Be passed as amended",
+      "date": "2025-03-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:31:39Z"
@@ -83,33 +89,33 @@
       }
     },
     {
-      "description": "Committee of the Whole - Be passed as amended",
-      "date": "2025-03-20",
+      "description": "Committee Report recommending bill be passed as amended by Senate Committee on Assessment and Taxation",
+      "date": "2025-03-18",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage"
+        "committee-passage-favorable"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Emergency Final Action - Passed as amended;  Yea: 30 Nay: 10",
-      "date": "2025-03-20",
+      "description": "Referred to Senate Committee on Assessment and Taxation",
+      "date": "2025-02-13",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage"
+        "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Received and Introduced",
-      "date": "2025-03-24",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Introduced",
+      "date": "2025-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "introduction"
       ],
@@ -117,40 +123,45 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:31:39Z"
       }
-    },
-    {
-      "description": "Referred to Committee on Taxation",
-      "date": "2025-03-25",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Committee on Assessment and Taxation",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Assessment and Taxation\"}"
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
-      "note": "As introduced",
+      "note": "As Amended by Senate Committee",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb259_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_259/sb259_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_259/sb259_01_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As Amended by Senate Committee",
+      "note": "As Introduced",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb259_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_259/sb259_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_259/sb259_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -159,22 +170,30 @@
   ],
   "documents": [
     {
-      "note": "As introduced Fiscal Note",
+      "note": "As Amended by Senate Committee Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_sb259_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_sb259_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_sb259_01_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As Amended by Senate Committee Supp Note",
+      "note": "As Introduced Fiscal Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_sb259_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_sb259_00_0000/fisc_note_sb259_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_sb259_00_0000/fisc_note_sb259_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -184,17 +203,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB259/",
-      "note": ""
-    },
-    {
-      "url": "http://kslegislature.org/li/b2025_26/measures/sb259/",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/SB259/",
       "note": ""
     }
   ],
-  "extras": {
-    "status": "introduced"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ks/government",
     "name": "Kansas",
@@ -202,6 +215,6 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:31:39Z"
+    "logs_latest_update": "2026-05-09T13:38:27Z"
   }
 }

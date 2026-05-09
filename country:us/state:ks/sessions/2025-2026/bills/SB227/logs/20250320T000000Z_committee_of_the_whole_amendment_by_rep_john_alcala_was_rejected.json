@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee of the Whole - Amendment by Rep. John Alcala was rejected",
+    "date": "2025-03-20",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB227"
+}

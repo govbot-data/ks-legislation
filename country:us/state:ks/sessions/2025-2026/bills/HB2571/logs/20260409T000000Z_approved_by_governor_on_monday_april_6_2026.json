@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Approved by Governor on Monday, April 6, 2026",
+    "date": "2026-04-09",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2571"
+}

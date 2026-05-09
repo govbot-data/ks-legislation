@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Received and Introduced",
+    "date": "2026-02-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "introduction"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2448"
+}

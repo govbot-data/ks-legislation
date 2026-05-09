@@ -6,16 +6,48 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Colleges and Universities",
+    "Commerce, Department of",
+    "Health and Environment, Department of",
+    "Labor and Employment",
+    "Legislature",
+    "Named Acts",
+    "Revenue, Department of",
+    "Schools"
+  ],
   "abstracts": [],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "",
-      "title": "AN ACT concerning the legislature; establishing the longitudinal data act; creating the division of longitudinal data in the legislative research department; authorizing the legislative coordinating council to appoint the director of the division; authorizing the director to hire employees thereof; providing for the development and management of the Kansas longitudinal data system to securely link and analyze education, workforce and related data; creating a publicly accessible online registry of educational and occupational credentials; restricting release of personally identifiable information; making and concerning appropriations for the fiscal year ending June 30, 2026, for the legislature; amending K.S.A. 72-6314 and repealing the existing section."
+      "identifier": "ocd-bill-ks-2025_2026-hb2303"
     }
   ],
-  "other_identifiers": [],
   "actions": [
+    {
+      "description": "Died in Committee",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on K-12 Education Budget",
+      "date": "2025-02-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
     {
       "description": "Introduced",
       "date": "2025-02-05",
@@ -27,49 +59,30 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:31:39Z"
       }
-    },
-    {
-      "description": "Referred to Committee on K-12 Education Budget",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Hearing: Wednesday, February 12, 2025, 3:30 PM Room 546-S - CANCELED",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Hearing: Tuesday, February 11, 2025, 3:30 PM Room 546-S",
-      "date": "2025-02-10",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Committee on K-12 Education Budget",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on K-12 Education Budget\"}"
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
-      "note": "As introduced",
+      "note": "As Introduced",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2303_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2303/hb2303_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2303/hb2303_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -78,11 +91,15 @@
   ],
   "documents": [
     {
-      "note": "As introduced Fiscal Note",
+      "note": "As Introduced Fiscal Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_hb2303_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_hb2303_00_0000/fisc_note_hb2303_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_hb2303_00_0000/fisc_note_hb2303_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -92,17 +109,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/HB2303/",
-      "note": ""
-    },
-    {
-      "url": "http://kslegislature.org/li/b2025_26/measures/hb2303/",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/HB2303/",
       "note": ""
     }
   ],
-  "extras": {
-    "status": "introduced"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ks/government",
     "name": "Kansas",
@@ -110,6 +121,6 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:31:39Z"
+    "logs_latest_update": "2026-05-09T13:38:28Z"
   }
 }

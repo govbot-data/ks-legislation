@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Enrolled on Monday, February 16, 2026",
+    "date": "2026-02-16",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR6029"
+}

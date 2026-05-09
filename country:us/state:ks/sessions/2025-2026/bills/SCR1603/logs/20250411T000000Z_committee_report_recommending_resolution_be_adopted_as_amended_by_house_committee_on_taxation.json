@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee Report recommending resolution be adopted as amended by House Committee on Taxation",
+    "date": "2025-04-11",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SCR1603"
+}

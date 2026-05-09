@@ -6,16 +6,42 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Children and Minors",
+    "Crimes, Punishment and Criminal Procedure"
+  ],
   "abstracts": [],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "",
-      "title": "AN ACT concerning children and minors; relating to the revised Kansas juvenile justice code; prohibiting fines, fees and costs from being assessed against a juvenile or a juvenile's parent, guardian or custodian; amending K.S.A. 12-16,119, 20-3129, 21-6609, 22-4905, 28-170, 28-170a, 28-176, 38-2306, 38-2312, 38-2315, 38-2317, 38-2328, 38-2331, 38-2346, 38-2348, 38-2360, 38-2361, 38-2362, 38-2369, 38-2373, 38-2384, 38-2389, 38-2396, 38-2399 and 75-724 and K.S.A. 2024 Supp. 28-177 and repealing the existing sections; also repealing K.S.A. 20-167, 38-2314, 38-2319, 38-2321, 38-2322 and 38-2324."
+      "identifier": "ocd-bill-ks-2025_2026-sb111"
     }
   ],
-  "other_identifiers": [],
   "actions": [
+    {
+      "description": "Died in Committee",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Referred to Senate Committee on Judiciary",
+      "date": "2025-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
     {
       "description": "Introduced",
       "date": "2025-01-29",
@@ -27,29 +53,30 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:31:39Z"
       }
-    },
-    {
-      "description": "Referred to Committee on Judiciary",
-      "date": "2025-01-30",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Committee on Judiciary",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Judiciary\"}"
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
-      "note": "As introduced",
+      "note": "As Introduced",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb111_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_111/sb111_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_111/sb111_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -58,11 +85,15 @@
   ],
   "documents": [
     {
-      "note": "As introduced Fiscal Note",
+      "note": "As Introduced Fiscal Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_sb111_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_sb111_00_0000/fisc_note_sb111_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_sb111_00_0000/fisc_note_sb111_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -72,17 +103,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB111/",
-      "note": ""
-    },
-    {
-      "url": "http://kslegislature.org/li/b2025_26/measures/sb111/",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/SB111/",
       "note": ""
     }
   ],
-  "extras": {
-    "status": "introduced"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ks/government",
     "name": "Kansas",
@@ -90,6 +115,6 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:31:39Z"
+    "logs_latest_update": "2026-05-09T13:38:28Z"
   }
 }

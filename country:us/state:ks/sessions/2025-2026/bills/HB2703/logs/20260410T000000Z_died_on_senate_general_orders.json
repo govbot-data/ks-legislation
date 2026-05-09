@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Died on Senate General Orders",
+    "date": "2026-04-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2703"
+}

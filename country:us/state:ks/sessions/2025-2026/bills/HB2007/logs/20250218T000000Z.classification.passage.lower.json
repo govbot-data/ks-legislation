@@ -1,11 +1,10 @@
 {
   "action": {
-    "description": "Committee of the Whole - Substitute bill be passed as amended",
+    "description": "Committee of the Whole - Amendment by Rep. Brett Fairchild was adopted",
     "date": "2025-02-18",
     "organization_id": "~{\"classification\": \"lower\"}",
     "classification": [
-      "passage",
-      "substitution"
+      "passage"
     ],
     "related_entities": []
   },

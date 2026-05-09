@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Vetoed by Governor; Returned to Senate on Friday, February 13, 2026",
+    "date": "2026-02-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB244"
+}

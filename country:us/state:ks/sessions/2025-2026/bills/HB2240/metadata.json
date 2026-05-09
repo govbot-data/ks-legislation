@@ -6,22 +6,55 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Health and Healthcare",
+    "Legislature",
+    "State Agencies"
+  ],
   "abstracts": [],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "",
-      "title": "AN ACT concerning public assistance; requiring approval by an act of the legislature prior to any state agency seeking or implementing any public assistance program waiver or other authorization from the federal government that expands eligibility for any public assistance program, increases cost to the state or makes certain changes in services for persons with intellectual or developmental disabilities; authorizing approval of such waivers, other authorizations or changes by the legislative coordinating council when the legislature is not in session."
+      "identifier": "ocd-bill-ks-2025_2026-hb2240"
     }
   ],
-  "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced",
-      "date": "2025-02-04",
+      "description": "Law effective July 1, 2025",
+      "date": "2025-04-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Motion to override veto prevailed; Yea 31, Nay 9",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Motion to override veto prevailed; Yea 88, Nay 37",
+      "date": "2025-04-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Vetoed by Governor; Returned to House on Wednesday, April 9, 2025",
+      "date": "2025-04-10",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "introduction"
+        "executive-veto"
       ],
       "related_entities": [],
       "_processing": {
@@ -29,11 +62,11 @@
       }
     },
     {
-      "description": "Referred to Committee on Welfare Reform",
-      "date": "2025-02-05",
+      "description": "Enrolled and presented to Governor on Monday, March 31, 2025",
+      "date": "2025-04-10",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "referral-committee"
+        "executive-receipt"
       ],
       "related_entities": [],
       "_processing": {
@@ -41,8 +74,8 @@
       }
     },
     {
-      "description": "Hearing: Tuesday, February 11, 2025, 1:30 PM Room 152-S",
-      "date": "2025-02-10",
+      "description": "Reengrossed on Friday, March 28, 2025",
+      "date": "2025-04-10",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
@@ -51,112 +84,28 @@
       }
     },
     {
-      "description": "Committee Report recommending bill be passed as amended by Committee on Welfare Reform",
-      "date": "2025-02-17",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Committee Report be adopted",
-      "date": "2025-02-20",
+      "description": "Conference Committee Report was adopted; Yea 90, Nay 35",
+      "date": "2025-03-27",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Committee of the Whole - Motion to Amend - Offered by  Representative Wikle",
-      "date": "2025-02-20",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Amendment by  Representative Wikle was rejected",
-      "date": "2025-02-20",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "amendment-failure"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Be passed as amended",
-      "date": "2025-02-20",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Emergency Final Action - Passed as amended;  Yea: 89 Nay: 34",
-      "date": "2025-02-20",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Received and Introduced",
-      "date": "2025-02-25",
+      "description": "Conference Committee Report was adopted; Yea 31, Nay 9",
+      "date": "2025-03-26",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Referred to Committee on Government Efficiency",
-      "date": "2025-02-26",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Engrossed on Monday, February 24, 2025",
-      "date": "2025-02-26",
-      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Hearing: Tuesday, March 11, 2025, 9:30 AM Room 144-S",
-      "date": "2025-03-05",
+      "description": "Conference committee report now available",
+      "date": "2025-03-26",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
@@ -165,22 +114,75 @@
       }
     },
     {
-      "description": "Committee Report recommending substitute bill be passed by Committee on Government Efficiency",
-      "date": "2025-03-18",
+      "description": "Conference Committee Report agree to disagree adopted; Rep. Francis Awerkamp, Rep. Bill Rhiley and Rep. Jarrod Ousley appointed as second conferees",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report agree to disagree adopted; Sen. Renee Erickson, Sen. Michael Murphy and Sen. Cindy Holscher appointed as second conferees",
+      "date": "2025-03-25",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Conference committee report now available",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:31:39Z"
       }
     },
     {
-      "description": "Committee of the Whole - Now working on",
+      "description": "Motion to accede adopted; Sen. Renee Erickson, Sen. Michael Murphy and Sen. Cindy Holscher appointed as conferees",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Nonconcurred with amendments; Conference Committee requested; appointed Rep. Francis Awerkamp, Rep. Bill Rhiley and Rep. Jarrod Ousley",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Emergency Final Action - Substitute passed; Yea 29, Nay 11",
       "date": "2025-03-19",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Substitute bill be passed",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage",
+        "substitution"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:31:39Z"
@@ -200,34 +202,20 @@
       }
     },
     {
-      "description": "Committee of the Whole - Substitute bill be passed",
-      "date": "2025-03-19",
+      "description": "Committee Report recommending substitute bill be passed by Senate Committee on Government Efficiency",
+      "date": "2025-03-18",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage",
-        "substitution"
+        "committee-passage-favorable"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Emergency Final Action - Substitute passed;   Yea: 29 Nay: 11",
-      "date": "2025-03-19",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage",
-        "substitution"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Nonconcurred with amendments; Conference Committee requested; appointed",
-      "date": "2025-03-24",
+      "description": "Engrossed on Monday, February 24, 2025",
+      "date": "2025-02-26",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
@@ -236,70 +224,54 @@
       }
     },
     {
-      "description": "Motion to accede adopted;  Senator Erickson,  Senator Murphy and  Senator Holscher appointed as  conferees",
-      "date": "2025-03-24",
+      "description": "Referred to Senate Committee on Government Efficiency",
+      "date": "2025-02-26",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Received and Introduced",
+      "date": "2025-02-25",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:31:39Z"
       }
     },
     {
-      "description": "Conference committee report now available",
-      "date": "2025-03-25",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Conference Committee Report agree to disagree adopted;  Senator Erickson,  Senator Murphy and  Senator Holscher appointed as second conferees",
-      "date": "2025-03-25",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Conference Committee Report agree to disagree adopted;  Representative Awerkamp,  Representative Rhiley and  Representative Ousley appointed as second conferees",
-      "date": "2025-03-25",
+      "description": "Emergency Final Action - Passed as amended; Yea 89, Nay 34, Absent 2",
+      "date": "2025-02-20",
       "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Conference committee report now available",
-      "date": "2025-03-26",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Conference Committee Report was adopted;  Yea: 31 Nay: 9",
-      "date": "2025-03-26",
-      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Conference Committee Report was adopted;  Yea: 90 Nay: 35",
-      "date": "2025-03-27",
+      "description": "Motion to advance to Emergency Final Action adopted; \u2014",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Be passed as amended",
+      "date": "2025-02-20",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "passage"
@@ -310,8 +282,28 @@
       }
     },
     {
-      "description": "Reengrossed on Friday, March 28, 2025",
-      "date": "2025-04-10",
+      "description": "Committee of the Whole - Amendment by Rep. Suzanne Wikle was rejected",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Motion to Amend - Offered by Rep. Suzanne Wikle",
+      "date": "2025-02-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Committee Report be adopted",
+      "date": "2025-02-20",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
@@ -320,47 +312,35 @@
       }
     },
     {
-      "description": "Enrolled and presented to Governor on Monday, March 31, 2025",
-      "date": "2025-04-10",
+      "description": "Committee Report recommending bill be passed as amended by House Committee on Welfare Reform",
+      "date": "2025-02-17",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "executive-receipt"
+        "committee-passage-favorable"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Vetoed by Governor; Returned to House on Wednesday, April 9, 2025",
-      "date": "2025-04-10",
+      "description": "Referred to House Committee on Welfare Reform",
+      "date": "2025-02-04",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "executive-veto"
+        "referral-committee"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
+        "log_file_created": "2026-05-09T13:38:27Z"
       }
     },
     {
-      "description": "Motion to override veto prevailed;  Yea: 88 Nay: 37",
-      "date": "2025-04-10",
+      "description": "Introduced",
+      "date": "2025-02-04",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "veto-override-passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:39Z"
-      }
-    },
-    {
-      "description": "Motion to override veto prevailed;  Yea: 31 Nay: 9",
-      "date": "2025-04-10",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "veto-override-passage"
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
@@ -368,26 +348,36 @@
       }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Committee on Welfare Reform",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Welfare Reform\"}"
+    },
+    {
+      "name": "Committee on Government Efficiency",
+      "classification": "cosponsor",
+      "entity_type": "organization",
+      "primary": false,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Government Efficiency\"}"
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
-      "note": "As introduced",
+      "note": "Enrolled",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2240_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2240/hb2240_enrolled.pdf",
           "media_type": "application/pdf"
-        }
-      ],
-      "date": "",
-      "classification": ""
-    },
-    {
-      "note": "As Amended by House Committee",
-      "links": [
+        },
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2240_01_0000.pdf",
-          "media_type": "application/pdf"
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2240/hb2240_enrolled.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -397,19 +387,42 @@
       "note": "S Sub for",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2240_02_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2240/hb2240_02_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2240/hb2240_02_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "Enrolled - Law effective July 1, 2025",
+      "note": "As Amended by House Committee",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/hb2240_enrolled.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2240/hb2240_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2240/hb2240_01_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/hb_2240/hb2240_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/hb_2240/hb2240_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -418,33 +431,45 @@
   ],
   "documents": [
     {
-      "note": "As introduced Fiscal Note",
+      "note": "S Sub for Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_hb2240_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_hb2240_02_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_hb2240_02_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As Amended by House Committee Supp Note",
+      "note": "As Amended by House Committee Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_hb2240_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_hb2240_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_hb2240_01_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "S Sub for Supp Note",
+      "note": "As Introduced Fiscal Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_hb2240_02_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_hb2240_00_0000/fisc_note_hb2240_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_hb2240_00_0000/fisc_note_hb2240_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -454,18 +479,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/HB2240/",
-      "note": ""
-    },
-    {
-      "url": "http://kslegislature.org/li/b2025_26/measures/hb2240/",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/HB2240/",
       "note": ""
     }
   ],
-  "extras": {
-    "status": "introduced",
-    "date_effective": "2025-07-01"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ks/government",
     "name": "Kansas",
@@ -473,6 +491,6 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:31:39Z"
+    "logs_latest_update": "2026-05-09T13:38:27Z"
   }
 }

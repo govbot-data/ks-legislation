@@ -1,49 +1,142 @@
 {
   "legislative_session": "2025-2026",
   "identifier": "SB30",
-  "title": "Requiring that adoption of new occupational licensing requirements and material changes to existing occupational licenses by a state agency be approved by joint resolution of the legislature unless otherwise ratified by the legislature by the enactment of a bill and providing for notice to agencies and the legislature and a procedure for legislative review of such occupational licensing requirements.",
+  "title": "Providing for occupational licensing annual reports by agencies to the joint committee on administrative rules and regulations and requiring that adoption of new occupational licenses and material changes to existing occupational licenses by a state agency be approved by the legislature by ratification.",
   "from_organization": "~{\"classification\": \"upper\"}",
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Labor and Employment",
+    "Legislature",
+    "Licenses and Licensure",
+    "Rules and Regulations, Administrative",
+    "SB 229"
+  ],
   "abstracts": [],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "",
-      "title": "AN ACT concerning criminal history record information; relating to state and national criminal history record checks; authorizing the attorney general and the state gaming agency to receive more criminal history records; updating criminal history record language related to the state bank commissioner; requiring the secretary of labor to conduct such checks on employees who have access to federal tax information; amending K.S.A. 75-5702 and K.S.A. 2024 Supp. 9-555, 9-565, 9-2411, 22-4714 and 75-7b01 and repealing the existing sections."
+      "identifier": "ocd-bill-ks-2025_2026-sb30"
     }
   ],
-  "other_identifiers": [],
   "actions": [
     {
-      "description": "Introduced",
-      "date": "2025-01-16",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "introduction"
-      ],
+      "description": "Motion to override veto prevailed; Yea 88, Nay 35, Absent 2",
+      "date": "2026-04-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:28Z"
       }
     },
     {
-      "description": "Referred to Committee on Judiciary",
-      "date": "2025-01-17",
+      "description": "Motion to override veto prevailed; Yea 30, Nay 9, Absent 1",
+      "date": "2026-04-09",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:28Z"
       }
     },
     {
-      "description": "Hearing: Monday, January 27, 2025, 10:30 AM Room 346-S",
-      "date": "2025-01-22",
+      "description": "Vetoed by Governor; Returned to Senate on Monday, April 6, 2026",
+      "date": "2026-04-09",
       "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Enrolled and presented to Governor on Friday, March 27, 2026",
+      "date": "2026-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report was adopted; Yea 30, Nay 10",
+      "date": "2026-03-24",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report was adopted; Yea 89, Nay 35, Absent 1",
+      "date": "2026-02-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Conference committee report now available",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Rep. Jill Ward is appointed to replace Rep. Adam Turk on the Conference Committee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Motion to accede adopted; Rep. Sean Tarwater, Rep. Adam Turk and Rep. Stephanie Sawyer Clayton appointed as second conferees",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report not adopted; Sen. Larry Alley, Sen. Stephen Owens and Sen. Oletha Faust Goudeau appointed as second conferees \u2014",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Conference Committee Report was adopted; Yea 86, Nay 38, Absent 1",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Conference committee report now available",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
@@ -51,112 +144,74 @@
       }
     },
     {
-      "description": "Hearing: Monday, January 27, 2025, 10:30 AM Room 346-S",
-      "date": "2025-01-24",
+      "description": "Sen. Larry Alley, Sen. Stephen Owens, and Sen. Mary Ware are appointed to replace Sen. Kellie Warren, Sen. Kenny Titus, and Sen. Ethan Corson on the Conference Committee",
+      "date": "2025-03-26",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:28Z"
       }
     },
     {
-      "description": "Committee Report recommending bill be passed by Committee on Judiciary",
-      "date": "2025-02-04",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
+      "description": "Rep. Sean Tarwater, Rep. Adam Turk, and Rep. Stephanie Sawyer Clayton are appointed to replace Rep. Susan Humphries, Rep. Laura Williams, and Rep. Dan Osman on the Conference Committee",
+      "date": "2025-03-25",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:28Z"
       }
     },
     {
-      "description": "Committee of the Whole - Now working on",
-      "date": "2025-02-18",
+      "description": "Motion to accede adopted; Rep. Susan Humphries, Rep. Laura Williams and Rep. Dan Osman appointed as conferees",
+      "date": "2025-03-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Nonconcurred with amendments; Conference Committee requested; appointed Sen. Kellie Warren, Sen. Kenny Titus and Sen. Ethan Corson",
+      "date": "2025-03-24",
       "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:28Z"
       }
     },
     {
-      "description": "Committee of the Whole - Be passed",
-      "date": "2025-02-18",
-      "organization_id": "~{\"classification\": \"upper\"}",
+      "description": "Emergency Final Action - Passed as amended; Yea 123, Nay 0, Absent 2",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
         "passage"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:28Z"
       }
     },
     {
-      "description": "Final Action - Passed;   Yea: 40 Nay: 0",
-      "date": "2025-02-19",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "passage"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Received and Introduced",
-      "date": "2025-02-19",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "introduction"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Referred to Committee on Judiciary",
-      "date": "2025-02-20",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Hearing: Monday, March 10, 2025, 3:30 PM Room 582-N",
-      "date": "2025-03-05",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee Report recommending bill be passed as amended by Committee on Judiciary",
-      "date": "2025-03-17",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [
-        "committee-passage-favorable"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Committee of the Whole - Now working on",
+      "description": "Motion to advance to Emergency Final Action adopted; \u2014",
       "date": "2025-03-19",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Be passed as amended",
+      "date": "2025-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T08:31:40Z"
@@ -173,9 +228,57 @@
       }
     },
     {
-      "description": "Committee of the Whole - Be passed as amended",
-      "date": "2025-03-19",
+      "description": "Committee Report recommending bill be passed as amended by House Committee on Judiciary",
+      "date": "2025-03-17",
       "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Referred to House Committee on Judiciary",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Received and Introduced",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-11-27T08:31:40Z"
+      }
+    },
+    {
+      "description": "Final Action - Passed; Yea 40, Nay 0",
+      "date": "2025-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Committee of the Whole - Be passed",
+      "date": "2025-02-18",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
         "passage"
       ],
@@ -185,73 +288,35 @@
       }
     },
     {
-      "description": "Emergency Final Action - Passed as amended;  Yea: 123 Nay: 0",
-      "date": "2025-03-19",
-      "organization_id": "~{\"classification\": \"lower\"}",
+      "description": "Committee Report recommending bill be passed by Senate Committee on Judiciary",
+      "date": "2025-02-04",
+      "organization_id": "~{\"classification\": \"upper\"}",
       "classification": [
-        "passage"
+        "committee-passage-favorable"
       ],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
+        "log_file_created": "2026-05-09T13:38:28Z"
       }
     },
     {
-      "description": "Nonconcurred with amendments; Conference Committee requested; appointed",
-      "date": "2025-03-24",
+      "description": "Referred to Senate Committee on Judiciary",
+      "date": "2025-01-17",
       "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Motion to accede adopted;  Representative Humphries,  Representative Williams, L. and  Representative Osman appointed as  conferees",
-      "date": "2025-03-24",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Representative Tarwater,  Representative Turk, and  Representative Sawyer Clayton are appointed to replace  Representative Humphries,  Representative Williams, L., and  Representative Osman on the Conference Committee",
-      "date": "2025-03-25",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Senator Alley,  Senator Owens, and  Senator Ware are appointed to replace  Senator Warren,  Senator Titus, and  Senator Corson on the Conference Committee",
-      "date": "2025-03-26",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Conference committee report now available",
-      "date": "2025-03-27",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Conference Committee Report was adopted;  Yea: 86 Nay: 38",
-      "date": "2025-03-27",
-      "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "passage"
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:28Z"
+      }
+    },
+    {
+      "description": "Introduced",
+      "date": "2025-01-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
       ],
       "related_entities": [],
       "_processing": {
@@ -259,15 +324,28 @@
       }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Committee on Judiciary",
+      "classification": "primary",
+      "entity_type": "organization",
+      "primary": true,
+      "person_id": null,
+      "organization_id": "~{\"name\": \"Committee on Judiciary\"}"
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
-      "note": "As introduced",
+      "note": "Enrolled",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb30_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year2/ready_for_publication/sb_30/sb30_enrolled.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year2/ready_for_publication/sb_30/sb30_enrolled.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -277,8 +355,27 @@
       "note": "As Amended by House Committee",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb30_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb30_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb30_01_0000.pdf",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "As Introduced",
+      "links": [
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_30/sb30_00_0000.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_30/sb30_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -287,33 +384,45 @@
   ],
   "documents": [
     {
-      "note": "As introduced Fiscal Note",
+      "note": "As Amended by House Committee Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_sb30_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_sb30_01_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_sb30_01_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As introduced Supp Note",
+      "note": "As Introduced Supplemental Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_sb30_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_sb30_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/supp_note_sb30_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
       "classification": ""
     },
     {
-      "note": "As Amended by House Committee Supp Note",
+      "note": "As Introduced Fiscal Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/supp_note_sb30_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_sb30_00_0000/fisc_note_sb30_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_sb30_00_0000/fisc_note_sb30_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -323,17 +432,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB30/",
-      "note": ""
-    },
-    {
-      "url": "http://kslegislature.org/li/b2025_26/measures/sb30/",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/SB30/",
       "note": ""
     }
   ],
-  "extras": {
-    "status": "introduced"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ks/government",
     "name": "Kansas",
@@ -341,6 +444,6 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:31:40Z"
+    "logs_latest_update": "2026-05-09T13:38:28Z"
   }
 }

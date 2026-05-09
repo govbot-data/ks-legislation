@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Sen. David Haley is appointed to replace Sen. Silas Miller on the Conference Committee",
+    "date": "2026-04-09",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2515"
+}

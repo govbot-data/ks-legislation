@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Hearing: Tuesday, March 10, 2026, 8:30 AM \u2014 Room 144-S event",
+    "date": "2026-03-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2476"
+}

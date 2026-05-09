@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Final Action - Adopted; Yea 80, Nay 42, Absent 3",
+    "date": "2026-01-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SCR1604"
+}

@@ -6,16 +6,52 @@
   "classification": [
     "bill"
   ],
-  "subject": [],
+  "subject": [
+    "Labor and Employment",
+    "Named Acts"
+  ],
   "abstracts": [],
-  "other_titles": [
+  "other_titles": [],
+  "other_identifiers": [
     {
-      "note": "",
-      "title": "AN ACT concerning labor and employment; establishing the Kansas paid sick time act; requiring earned paid sick time to be compensated at the same hourly rate and benefits as normally earned; detailing the accrual of earned paid sick time, with different limits based on the size of the employer; allowing carryover of up to 80 hours of unused paid sick time or payment for unused time at year-end; requiring employers to provide employees with written notice regarding earned paid sick time; mandating that earned paid sick time be available for various health-related and safety-related reasons; prohibiting employers from requiring employees to find replacement workers when using paid sick time; allowing employers to require reasonable documentation for earned paid sick time used for three or more consecutive days; making it unlawful for employers to retaliate against employees exercising rights under the act; granting employees the right to bring civil action for violations; ensuring confidentiality of health and safety information; affirming that the act does not apply to employees under a collective bargaining agreement until such agreement's expiration; affirming that the act provides minimum requirements and does not preempt greater benefits than provided by this act."
+      "identifier": "ocd-bill-ks-2025_2026-sb216"
     }
   ],
-  "other_identifiers": [],
   "actions": [
+    {
+      "description": "Died in Committee",
+      "date": "2026-04-10",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "failure"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Citing Rule 11(b), motion to withdraw from committee failed.",
+      "date": "2025-03-27",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
+    {
+      "description": "Referred to Senate Committee on Commerce",
+      "date": "2025-02-06",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-05-09T13:38:27Z"
+      }
+    },
     {
       "description": "Introduced",
       "date": "2025-02-05",
@@ -27,39 +63,62 @@
       "_processing": {
         "log_file_created": "2025-11-27T08:31:40Z"
       }
-    },
-    {
-      "description": "Referred to Committee on Commerce",
-      "date": "2025-02-06",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
-    },
-    {
-      "description": "Citing Rule 11(b), motion to withdraw from committee failed.  Yea: 9 Nay: 30",
-      "date": "2025-03-27",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2025-11-27T08:31:40Z"
-      }
     }
   ],
-  "sponsorships": [],
+  "sponsorships": [
+    {
+      "name": "Ethan Corson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Ethan Corson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Cindy Holscher",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Cindy Holscher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Pat Pettey",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Pat Pettey\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick Schmidt",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Patrick Schmidt\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dinah Sykes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"Dinah Sykes\"}",
+      "organization_id": null
+    }
+  ],
   "related_bills": [],
   "versions": [
     {
-      "note": "As introduced",
+      "note": "As Introduced",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/sb216_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_216/sb216_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_216/sb216_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -68,11 +127,15 @@
   ],
   "documents": [
     {
-      "note": "As introduced Fiscal Note",
+      "note": "As Introduced Fiscal Note",
       "links": [
         {
-          "url": "http://www.kslegislature.gov/li/b2025_26/measures/documents/fisc_note_sb216_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/fisc_note_sb216_00_0000/fisc_note_sb216_00_0000.pdf",
           "media_type": "application/pdf"
+        },
+        {
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/ds_docs_li/fisc_note_sb216_00_0000/fisc_note_sb216_00_0000.pdf",
+          "media_type": "text/html"
         }
       ],
       "date": "",
@@ -82,17 +145,11 @@
   "citations": [],
   "sources": [
     {
-      "url": "https://www.kslegislature.org/li/api/v12/rev-1/bill_status/SB216/",
-      "note": ""
-    },
-    {
-      "url": "http://kslegislature.org/li/b2025_26/measures/sb216/",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/SB216/",
       "note": ""
     }
   ],
-  "extras": {
-    "status": "introduced"
-  },
+  "extras": {},
   "jurisdiction": {
     "id": "ocd-jurisdiction/country:us/state:ks/government",
     "name": "Kansas",
@@ -100,6 +157,6 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T08:31:40Z"
+    "logs_latest_update": "2026-05-09T13:38:27Z"
   }
 }

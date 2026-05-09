@@ -1,11 +1,10 @@
 {
   "action": {
-    "description": "Emergency Final Action - Substitute passed;   Yea: 116 Nay: 8",
+    "description": "Emergency Final Action - Substitute passed; Yea 116, Nay 8, Absent 1",
     "date": "2025-03-19",
     "organization_id": "~{\"classification\": \"lower\"}",
     "classification": [
-      "passage",
-      "substitution"
+      "passage"
     ],
     "related_entities": []
   },

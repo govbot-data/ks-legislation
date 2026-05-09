@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "Final Action - Passed as amended;  Yea: 122 Nay: 1",
+    "description": "Final Action - Passed as amended; Yea 122, Nay 1, Absent 2",
     "date": "2025-02-20",
     "organization_id": "~{\"classification\": \"lower\"}",
     "classification": [

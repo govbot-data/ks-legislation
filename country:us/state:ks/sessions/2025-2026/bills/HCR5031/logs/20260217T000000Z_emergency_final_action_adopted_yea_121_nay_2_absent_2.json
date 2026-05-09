@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Emergency Final Action - Adopted; Yea 121, Nay 2, Absent 2",
+    "date": "2026-02-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HCR5031"
+}

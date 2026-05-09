@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee Report recommending resolution be adopted by House Committee on Federal and State Affairs",
+    "date": "2025-02-14",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HCR5006"
+}

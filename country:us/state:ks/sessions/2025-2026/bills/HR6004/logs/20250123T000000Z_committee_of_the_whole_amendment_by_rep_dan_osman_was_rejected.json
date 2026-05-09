@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee of the Whole - Amendment by Rep. Dan Osman was rejected",
+    "date": "2025-01-23",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR6004"
+}

@@ -1,11 +1,10 @@
 {
   "action": {
-    "description": "Final Action - Substitute passed;   Yea: 28 Nay: 12",
+    "description": "Final Action - Substitute passed; Yea 28, Nay 12",
     "date": "2025-02-19",
     "organization_id": "~{\"classification\": \"upper\"}",
     "classification": [
-      "passage",
-      "substitution"
+      "passage"
     ],
     "related_entities": []
   },

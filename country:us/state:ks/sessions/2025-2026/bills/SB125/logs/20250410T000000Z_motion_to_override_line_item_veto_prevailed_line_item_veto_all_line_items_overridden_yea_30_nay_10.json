@@ -1,10 +1,10 @@
 {
   "action": {
-    "description": "Motion to override line item veto prevailed; Line item veto all line items overridden;  Yea: 30 Nay: 10",
+    "description": "Motion to override line item veto prevailed; Line item veto all line items overridden; Yea 30, Nay 10",
     "date": "2025-04-10",
     "organization_id": "~{\"classification\": \"upper\"}",
     "classification": [
-      "veto-override-passage"
+      "executive-veto-line-item"
     ],
     "related_entities": []
   },

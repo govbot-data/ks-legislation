@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Approved by Governor on Thursday, March 12, 2026",
+    "date": "2026-03-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2223"
+}

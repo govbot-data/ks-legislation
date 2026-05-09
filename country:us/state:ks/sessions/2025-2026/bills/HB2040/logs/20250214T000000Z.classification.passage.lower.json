@@ -1,6 +1,6 @@
 {
   "action": {
-    "description": "Final Action - Passed;   Yea: 116 Nay: 2",
+    "description": "Final Action - Passed; Yea 116, Nay 2, Absent 7",
     "date": "2025-02-14",
     "organization_id": "~{\"classification\": \"lower\"}",
     "classification": [

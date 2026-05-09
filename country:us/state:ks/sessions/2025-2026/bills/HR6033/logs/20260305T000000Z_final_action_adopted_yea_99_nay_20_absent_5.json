@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Final Action - Adopted; Yea 99, Nay 20, Absent 5",
+    "date": "2026-03-05",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR6033"
+}

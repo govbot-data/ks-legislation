@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from Senate Committee on Local Government, Transparency and Ethics; Referred to Senate Committee on Local Government, Transparency and Ethics",
+    "date": "2026-03-05",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB389"
+}

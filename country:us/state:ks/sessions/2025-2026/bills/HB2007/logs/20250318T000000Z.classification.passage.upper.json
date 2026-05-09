@@ -1,11 +1,10 @@
 {
   "action": {
-    "description": "Emergency Final Action - Substitute passed as amended;   Yea: 27 Nay: 13",
+    "description": "Committee of the Whole - Amendment by Sen. Tory Marie Blew was adopted",
     "date": "2025-03-18",
     "organization_id": "~{\"classification\": \"upper\"}",
     "classification": [
-      "passage",
-      "substitution"
+      "passage"
     ],
     "related_entities": []
   },

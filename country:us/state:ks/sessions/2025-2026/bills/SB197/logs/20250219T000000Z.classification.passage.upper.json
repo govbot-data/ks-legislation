@@ -1,11 +1,10 @@
 {
   "action": {
-    "description": "Emergency Final Action - Substitute passed as amended;   Yea: 32 Nay: 8",
+    "description": "Committee of the Whole - Amendment by Sen. Jeff Klemp was adopted",
     "date": "2025-02-19",
     "organization_id": "~{\"classification\": \"upper\"}",
     "classification": [
-      "passage",
-      "substitution"
+      "passage"
     ],
     "related_entities": []
   },

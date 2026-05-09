@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Motion to override line item veto prevailed; Line item veto HB 2513 overridden; \u2014",
+    "date": "2026-04-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "executive-veto-line-item"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2513"
+}

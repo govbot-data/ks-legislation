@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee Report recommending resolution be adopted by House Committee on Rules and Journal",
+    "date": "2025-01-22",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HCR5003"
+}

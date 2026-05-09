@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from House Committee on Corrections and Juvenile Justice; Referred to House Committee on Corrections and Juvenile Justice",
+    "date": "2025-02-27",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2328"
+}

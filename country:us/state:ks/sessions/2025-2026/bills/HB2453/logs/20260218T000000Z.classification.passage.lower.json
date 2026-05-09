@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Final Action - Passed as amended; Yea 86, Nay 38, Absent 1",
+    "date": "2026-02-18",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2453"
+}

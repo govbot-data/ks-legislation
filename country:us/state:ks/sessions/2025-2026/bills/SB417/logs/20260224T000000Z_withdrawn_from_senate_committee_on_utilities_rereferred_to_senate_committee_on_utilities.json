@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from Senate Committee on Utilities; Rereferred to Senate Committee on Utilities",
+    "date": "2026-02-24",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB417"
+}

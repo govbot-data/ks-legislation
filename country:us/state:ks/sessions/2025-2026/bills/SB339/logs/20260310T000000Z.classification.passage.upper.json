@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Final Action - Not passed; Yea 17, Nay 23",
+    "date": "2026-03-10",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB339"
+}

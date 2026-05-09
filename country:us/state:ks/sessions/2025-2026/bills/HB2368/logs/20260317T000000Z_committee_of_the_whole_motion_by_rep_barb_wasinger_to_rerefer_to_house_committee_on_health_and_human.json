@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Committee of the Whole - Motion by Rep. Barb Wasinger to rerefer to House Committee on Health and Human Services $result$",
+    "date": "2026-03-17",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB2368"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Be passed over and retain a place on the Calendar",
+    "date": "2026-02-16",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB324"
+}

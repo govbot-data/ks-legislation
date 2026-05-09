@@ -1,8 +1,8 @@
 {
   "action": {
-    "description": "Motion to suspend Joint Rule 4 (k) to allow consideration adopted;",
+    "description": "Motion to suspend Joint Rule 4 (k) to allow consideration adopted; \u2014",
     "date": "2025-04-11",
-    "organization_id": "~{\"classification\": \"upper\"}",
+    "organization_id": "~{\"classification\": \"lower\"}",
     "classification": [],
     "related_entities": []
   },

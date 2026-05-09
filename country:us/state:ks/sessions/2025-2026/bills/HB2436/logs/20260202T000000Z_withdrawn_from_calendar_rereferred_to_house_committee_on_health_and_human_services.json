@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Withdrawn from Calendar, Rereferred to House Committee on Health and Human Services",
+    "date": "2026-02-02",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2436"
+}
