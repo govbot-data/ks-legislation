@@ -62,6 +62,16 @@
       }
     },
     {
+      "description": "Conference Committee Report was adopted; Yea 78, Nay 46, Absent 1",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-09T06:04:13Z"
+      }
+    },
+    {
       "description": "Conference committee report now available",
       "date": "2026-03-16",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -154,13 +164,13 @@
       }
     },
     {
-      "description": "Motion to lay on table not adopted; \u2014",
+      "description": "Motion to lay on table not adopted",
       "date": "2026-02-05",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T18:54:24Z"
+        "log_file_created": "2026-08-09T06:04:13Z"
       }
     },
     {
@@ -375,14 +385,14 @@
       "classification": ""
     },
     {
-      "note": "As Amended by Senate Committee",
+      "note": "As Amended by Senate Committee on Federal and State Affairs",
       "links": [
         {
-          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_254/sb254_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year2/ready_for_publication/sb254_01_0000.pdf",
           "media_type": "application/pdf"
         },
         {
-          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_254/sb254_01_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year2/ready_for_publication/sb254_01_0000.pdf",
           "media_type": "text/html"
         }
       ],
@@ -393,11 +403,11 @@
       "note": "As Introduced",
       "links": [
         {
-          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year1/ready_for_publication/sb_254/sb254_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year2/ready_for_publication/sb_254/sb254_00_0000.pdf",
           "media_type": "application/pdf"
         },
         {
-          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year1/ready_for_publication/sb_254/sb254_00_0000.pdf",
+          "url": "https://www.kslegislature.gov/b2025_26/documents/view-leg/?apn=b2025_26/year2/ready_for_publication/sb_254/sb254_00_0000.pdf",
           "media_type": "text/html"
         }
       ],
@@ -422,7 +432,7 @@
       "classification": ""
     },
     {
-      "note": "As Amended by Senate Committee Supplemental Note",
+      "note": "As Amended by Senate Committee on Federal and State Affairs Supplemental Note",
       "links": [
         {
           "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/ds_docs_li/supp_note_sb254_01_0000.pdf",
@@ -467,7 +477,7 @@
     "division_id": "ocd-division/country:us/state:ks"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T18:54:24Z",
+    "logs_latest_update": "2026-08-09T06:04:13Z",
     "text_extraction_latest_update": "2026-07-21T19:48:30.732380Z"
   }
 }

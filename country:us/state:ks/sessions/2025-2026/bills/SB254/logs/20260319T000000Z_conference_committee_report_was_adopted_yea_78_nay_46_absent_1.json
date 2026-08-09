@@ -1,7 +1,7 @@
 {
   "action": {
-    "description": "Motion to lay on table not adopted",
-    "occurred_at": "2026-02-05",
+    "description": "Conference Committee Report was adopted; Yea 78, Nay 46, Absent 1",
+    "occurred_at": "2026-03-19",
     "jurisdiction_id": "~{\"classification\": \"lower\"}",
     "session_id": "2025-2026",
     "entity_type": "bill",
